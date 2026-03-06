@@ -1,6 +1,8 @@
 ﻿using System;
-
-public class Reservation
+namespace Kontor_Nord
 {
-	
+	public class Reservation
+	{
+		public DateTime
+	}
 }

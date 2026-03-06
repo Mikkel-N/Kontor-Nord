@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kontor-Nord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e11dbbe8560814316e71c978cd56f37bf57496bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8266eba3b1c08f2a58e5f7805e19d7a5884e4924")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kontor-Nord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kontor-Nord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

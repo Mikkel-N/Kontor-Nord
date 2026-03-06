@@ -8,19 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mppn_School\\.nuget\\packages\\": {}
+    "C:\\Users\\andor\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repos\\Kontor-Nord\\Kontor-Nord\\Kontor-Nord.csproj",
+      "projectUniqueName": "C:\\Users\\andor\\source\\repos\\Kontor-Nord1\\Kontor-Nord\\Kontor-Nord.csproj",
       "projectName": "Kontor-Nord",
-      "projectPath": "E:\\repos\\Kontor-Nord\\Kontor-Nord\\Kontor-Nord.csproj",
-      "packagesPath": "C:\\Users\\Mppn_School\\.nuget\\packages\\",
-      "outputPath": "E:\\repos\\Kontor-Nord\\Kontor-Nord\\obj\\",
+      "projectPath": "C:\\Users\\andor\\source\\repos\\Kontor-Nord1\\Kontor-Nord\\Kontor-Nord.csproj",
+      "packagesPath": "C:\\Users\\andor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andor\\source\\repos\\Kontor-Nord1\\Kontor-Nord\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Mppn_School\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

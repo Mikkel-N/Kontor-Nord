@@ -1,19 +1,21 @@
 ﻿using System;
-
-public enum MeetingRoomName
+namespace Kontor_Nord
 {
-	Alfa,
-	Beta,
-	Gamma
-}
-
-public class MeetingRoom
-{
-	public MeetingRoomName Name { get; set; }
-
-	public MeetingRoom(MeetingRoomName name)
+	public enum MeetingRoomName
 	{
-		Name = name;
+		Alfa,
+		Beta,
+		Gamma
 	}
 
+	public class MeetingRoom
+	{
+		public MeetingRoomName Name { get; set; }
+
+		public MeetingRoom(MeetingRoomName name)
+		{
+			Name = name;
+		}
+
+	}
 }

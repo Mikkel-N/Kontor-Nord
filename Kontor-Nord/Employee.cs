@@ -1,16 +1,20 @@
 ﻿using System;
-
-public class Employee
+namespace Kontor_Nord
 {
-	public int Id { get; set; }
-	public string Name { get; set; }
 
-	public Employee(int id, string name)
+
+	public class Employee
 	{
-		Id = id;
-		Name = name;
+		public int Id { get; set; }
+		public string Name { get; set; }
+
+		public Employee(int id, string name)
+		{
+			Id = id;
+			Name = name;
+		}
+
+
+
 	}
-
-
-
 }
