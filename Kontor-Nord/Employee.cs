@@ -13,8 +13,5 @@ namespace Kontor_Nord
 			Id = id;
 			Name = name;
 		}
-
-
-
 	}
 }
