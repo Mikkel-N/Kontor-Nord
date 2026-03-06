@@ -19,6 +19,15 @@ namespace Kontor_Nord
             DayOfWeek.Thursday, 
             DayOfWeek.Friday
         };
+
+        // Used to make "fake" reservations for demonstration purposes.
+        public void AlreadyOccupiedTimes(List<EmployeeName> EmployeeNames, List)
+        {
+
+        }
+        public void ShowCalendar()
+        {
+        }
     };
 
 }

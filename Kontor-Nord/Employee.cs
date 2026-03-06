@@ -13,7 +13,13 @@ namespace Kontor_Nord
 			Id = id;
 			Name = name;
 		}
-
+		public List<EmployeeName> EmployeeNames = new List<EmployeeName>()
+		{
+			new EmployeeName("Sofie"),
+			new EmployeeName("Amir"),
+			new EmployeeName("Louise"),
+			new EmployeeName("Jonas"),
+		};
 
 
 	}
