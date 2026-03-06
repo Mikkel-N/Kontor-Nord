@@ -1,15 +1,30 @@
 ﻿using System;
-
-public class MeetingRooms
+namespace Kontor_Nord
 {
-	private int _numberOfRooms;
-	private string _roomNames;
-	private bool _isRoomAvailable;
-
-
-
-	public MeetingRooms(int _numberOfRooms, int _roomNames, bool _isRoomAvailable)
+	public enum MeetingRoomName
 	{
-
+		Alfa,
+		Beta,
+		Gamma
 	}
+
+	public class MeetingRoom
+	{
+		public string Name { get; set; }
+
+		public MeetingRoom(string name)
+		{
+			Name = name;
+		}
+
+        public static List<MeetingRoom> GetMeetingRooms()
+        {
+			return new List<MeetingRoom>()
+			{
+				new MeetingRoom("Lokale A"),
+				new MeetingRoom("Lokale B"),
+				new MeetingRoom("Lokale C")
+			};
+        }
+    }
 }
