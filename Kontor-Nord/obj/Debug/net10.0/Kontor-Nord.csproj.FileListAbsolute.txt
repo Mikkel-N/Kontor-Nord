@@ -1,0 +1,15 @@
+E:\repos\Kontor-Nord\Kontor-Nord\bin\Debug\net10.0\Kontor-Nord.exe
+E:\repos\Kontor-Nord\Kontor-Nord\bin\Debug\net10.0\Kontor-Nord.deps.json
+E:\repos\Kontor-Nord\Kontor-Nord\bin\Debug\net10.0\Kontor-Nord.runtimeconfig.json
+E:\repos\Kontor-Nord\Kontor-Nord\bin\Debug\net10.0\Kontor-Nord.dll
+E:\repos\Kontor-Nord\Kontor-Nord\bin\Debug\net10.0\Kontor-Nord.pdb
+E:\repos\Kontor-Nord\Kontor-Nord\obj\Debug\net10.0\Kontor-Nord.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Kontor-Nord\Kontor-Nord\obj\Debug\net10.0\Kontor-Nord.AssemblyInfoInputs.cache
+E:\repos\Kontor-Nord\Kontor-Nord\obj\Debug\net10.0\Kontor-Nord.AssemblyInfo.cs
+E:\repos\Kontor-Nord\Kontor-Nord\obj\Debug\net10.0\Kontor-Nord.csproj.CoreCompileInputs.cache
+E:\repos\Kontor-Nord\Kontor-Nord\obj\Debug\net10.0\Kontor-Nord.sourcelink.json
+E:\repos\Kontor-Nord\Kontor-Nord\obj\Debug\net10.0\Kontor-Nord.dll
+E:\repos\Kontor-Nord\Kontor-Nord\obj\Debug\net10.0\refint\Kontor-Nord.dll
+E:\repos\Kontor-Nord\Kontor-Nord\obj\Debug\net10.0\Kontor-Nord.pdb
+E:\repos\Kontor-Nord\Kontor-Nord\obj\Debug\net10.0\Kontor-Nord.genruntimeconfig.cache
+E:\repos\Kontor-Nord\Kontor-Nord\obj\Debug\net10.0\ref\Kontor-Nord.dll
